@@ -282,17 +282,6 @@
     "status_failure_incompatible": "Установка несовместима",
     "status_failure_timeout": "Таймаут установки",
     "status_unknown": "Установка завершилась неудачно",
-    "mount_version_mismatch_description": "Установка не удалась из-за того, что версия установленного приложения отличается от версии патча.\n\nУстановите версию приложения, которое вы монтируете, и повторите попытку.",
-    "mount_no_root_description": "",
-    "mount_missing_installation_description": "",
-    "status_failure_timeout_description": "",
-    "status_failure_storage_description": "",
-    "status_failure_invalid_description": "",
-    "status_failure_incompatible_description": "",
-    "status_failure_conflict_description": "",
-    "status_failure_blocked_description": "",
-    "install_failed_verification_failure_description": "",
-    "install_failed_version_downgrade_description": "",
-    "status_unknown_description": ""
+    "mount_version_mismatch_description": "Установка не удалась из-за того, что версия установленного приложения отличается от версии патча.\n\nУстановите версию приложения, которое вы монтируете, и повторите попытку."
   }
 }
